@@ -1,0 +1,32 @@
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.fsproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.fsproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.fsproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\bin\Debug\ScfProjectMain.exe.config
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\bin\Debug\ScfProjectMain.XML
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\bin\Debug\ScfProjectMain.exe
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\bin\Debug\ScfProjectMain.pdb
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\bin\Debug\FSharp.Core.dll
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\bin\Debug\ScfProjectDesign.dll
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\bin\Debug\TrivialBehinds.dll
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\bin\Debug\ScfProjectDesign.pdb
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\bin\Debug\FSharp.Core.xml
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.fsproj.CopyComplete
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.exe
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.pdb
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\bin\Debug\ScfProjectMain.exe.config
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\bin\Debug\ScfProjectMain.XML
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\bin\Debug\ScfProjectMain.exe
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\bin\Debug\ScfProjectMain.pdb
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\bin\Debug\FSharp.Core.dll
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\bin\Debug\ScfProjectDesign.dll
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\bin\Debug\System.ValueTuple.dll
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\bin\Debug\TrivialBehinds.dll
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\bin\Debug\ScfProjectDesign.pdb
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\bin\Debug\FSharp.Core.xml
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.fsproj.AssemblyReference.cache
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.fsproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.fsproj.CoreCompileInputs.cache
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.fsproj.CopyComplete
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.exe
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectMain\obj\Debug\ScfProjectMain.pdb

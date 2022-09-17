@@ -1,0 +1,22 @@
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.ScfProjectForm.resources
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\bin\Debug\ScfProjectDesign.dll
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\bin\Debug\ScfProjectDesign.pdb
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\bin\Debug\TrivialBehinds.dll
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.csproj.CopyComplete
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.dll
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.pdb
+C:\Users\Usuario\Desktop\FSharpFormsSkeleton\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.Properties.Resources.resources
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\bin\Debug\ScfProjectDesign.dll
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\bin\Debug\ScfProjectDesign.pdb
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\bin\Debug\TrivialBehinds.dll
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.csproj.AssemblyReference.cache
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.Properties.Resources.resources
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.ScfProjectForm.resources
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.csproj.GenerateResource.cache
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.csproj.CopyComplete
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.dll
+C:\Users\tyler\Documents\UNITEC\2022\UNITEC TERCER PERIODO 2022\Lenguajes de Programacion\MiniProyecto#2-Valeria&Tyler\MiniProyecto2_TylerYValeria\ScfProject\ScfProjectDesign\obj\Debug\ScfProjectDesign.pdb
