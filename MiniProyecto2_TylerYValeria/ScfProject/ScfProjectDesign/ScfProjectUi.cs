@@ -6,6 +6,8 @@ namespace ScfProjectDesign
     {
         public Button button1;
         public Label label1;
+        public Label label2;
+        public Label label3;
         public TextBox guess_tx;
         public Label try1_lb;
         public Label try2_lb;

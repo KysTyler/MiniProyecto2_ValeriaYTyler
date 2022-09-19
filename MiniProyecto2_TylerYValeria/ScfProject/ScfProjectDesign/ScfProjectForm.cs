@@ -13,6 +13,7 @@ namespace ScfProjectDesign
 {
     public partial class ScfProjectForm: Form
     {
+
         public ScfProjectForm()
         {
             InitializeComponent();
@@ -48,6 +49,8 @@ namespace ScfProjectDesign
             {
                 button1 = button1,
                 label1 = label1,
+                label2 = label2,
+                label3 = label3,
                 guess_tx = guess_tx,
                 try1_lb = try1_lb,
                 try2_lb = try2_lb,
@@ -69,7 +72,7 @@ namespace ScfProjectDesign
                 try18_lb = try18_lb,
                 try19_lb = try19_lb,
                 try20_lb = try20_lb,
-                go_bt = go_bt
+                go_bt = go_bt,
             });
             this.FormClosed += (o,e) => 
                 disposer.Dispose();
@@ -89,6 +92,7 @@ namespace ScfProjectDesign
 
         private void easy_bt_Click(object sender, EventArgs e)
         {
+            label2.Text = "easy";
             this.Size = new Size(626, 409);
             //visibles en false
             title.Visible = false;
@@ -114,7 +118,6 @@ namespace ScfProjectDesign
             try8_lb.Visible = true;
             try9_lb.Visible = true;
             try10_lb.Visible = true;
-            
             this.CenterToScreen();
 
 
@@ -122,6 +125,7 @@ namespace ScfProjectDesign
 
         private void intermediate_bt_Click(object sender, EventArgs e)
         {
+            label2.Text = "intermediate";
             description_lb.Text = "Debes adivinar la combinación de 5 dígitos utilizando digitos del 0 al 8. Tienes 15 intentos. ";
             this.Size = new Size(626, 409);
             //visibles en false
@@ -158,6 +162,7 @@ namespace ScfProjectDesign
 
         private void hard_bt_Click(object sender, EventArgs e)
         {
+            label2.Text = "hard";
             description_lb.Text = "Debes adivinar la combinación de 6 dígitos utilizando digitos del 0 al 9. Tienes 20 intentos. ";
             this.Size = new Size(626, 409);
             //visibles en false
@@ -195,6 +200,14 @@ namespace ScfProjectDesign
             try19_lb.Visible = true;
             try20_lb.Visible = true;
             this.CenterToScreen();
+        }
+
+        private void go_bt_Click(object sender, EventArgs e) {
+            Console.WriteLine("Hello world");
+        }
+
+        private void button1_Click(object sender, EventArgs e) {
+
         }
     }
 }
